@@ -19,4 +19,5 @@ A sleek, futuristic calculator built with a neon-inspired aesthetic. This projec
 2. Open `index.html` in any modern web browser.
 
 ## Preview
-[Add a screenshot of your calculator here later!]
+<img width="1903" height="948" alt="image" src="https://github.com/user-attachments/assets/92a023c8-006f-471e-a469-78751f0bf272" />
+
