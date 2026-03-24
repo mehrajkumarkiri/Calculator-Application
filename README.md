@@ -9,7 +9,7 @@ A sleek, futuristic calculator built with a neon-inspired aesthetic. This projec
 * **Core Math:** Handles addition, subtraction, multiplication, and division.
 
 ## Tech Stack
-* **HTML5**
+* **HTML5** Version
 * **CSS3** (Flexbox, CSS Animations, Grid)
 * **JavaScript** (ES6)
 
